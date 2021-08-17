@@ -2,11 +2,15 @@
   "PAGES": {
       "HOME": {
           "TITLE": "App works !",
-          "GO_TO_DETAIL": "Go to Detail"
+          "GO_TO_YARD_SHEET": "Go to Yard Sheet"
       },
-      "DETAIL": {
-        "TITLE": "Detail page !",
+      "SETTINGS": {
+        "TITLE": "Settings page !",
         "BACK_TO_HOME": "Back to Home"
-    }
+    },
+    "YARD_SHEET": {
+      "TITLE": "Yard Sheet page !",
+      "BACK_TO_HOME": "Back to Home"
+  }
   }
 }
